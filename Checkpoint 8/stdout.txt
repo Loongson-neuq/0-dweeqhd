@@ -1,0 +1,6 @@
+You input three numbers: -2147483648, 2147483647, 0
+Your result is:
+  min: -2147483648
+  mid: 2147483647
+  max: 0
+Sorry, you didn't pass the test.
